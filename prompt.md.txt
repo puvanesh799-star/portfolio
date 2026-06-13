@@ -1,0 +1,113 @@
+Create a modern futuristic 3D Full Stack Portfolio Website for a fresher developer named "Puvaneshwaran M". The website should feel premium, interactive, and visually impressive with smooth animations and a dark theme using gradient effects. Use React.js for frontend and Node.js + Express.js for backend architecture.
+
+Portfolio theme:
+A modern 3D developer portfolio with floating elements, glassmorphism cards, animated particles, smooth scrolling, hover effects, and immersive transitions. Add subtle 3D effects using Three.js / React Three Fiber.
+
+Personal Details:
+Name: Puvaneshwaran M
+Role: Frontend / Full Stack Fresher Developer
+Location: Thoothukudi, Tamil Nadu
+Phone: +91 6381328112
+Email: puvanesh797@gmail.com
+Education:
+B.Sc Information Technology
+Popes College, Sawyerpuram
+2023–2026
+Percentage: 78%
+
+Hero Section:
+Show a large animated 3D developer workspace or floating laptop model.
+Display:
+"Hi, I'm Puvaneshwaran"
+"A Passionate Frontend & Full Stack Fresher Developer"
+Typing animation with:
+React Developer
+Frontend Developer
+Node.js Learner
+Full Stack Enthusiast
+
+Navigation:
+Home
+About
+Skills
+Projects
+Education
+Certificates
+Contact
+
+About Section:
+Frontend-focused B.Sc IT student with hands-on experience in React.js, responsive web development and CRUD-based applications. Quick learner and team player eager to contribute in frontend or full stack roles.
+
+Skills Section:
+Frontend:
+HTML5
+CSS3
+JavaScript
+React.js
+
+Backend:
+Node.js
+Express.js
+
+Tools:
+GitHub
+VS Code
+
+Create 3D rotating skill cards with hover animation.
+
+Projects Section:
+1. Hotel Room Booking System
+- Responsive hotel booking application
+- CRUD functionality
+- Booking system
+- User-friendly UI
+- Admin Dashboard
+- JWT Authentication
+
+2. Portfolio Website
+- Responsive React Portfolio
+- Mobile friendly
+- Project showcase
+
+Show projects as animated 3D cards with tilt effects.
+
+Education Timeline:
+B.Sc Information Technology
+Popes College, Sawyerpuram
+2023–2026
+78%
+
+Certificates:
+Frontend Development
+Python Programming
+Typing English
+
+Additional Information:
+Quick learner
+Team worker
+Good communication skills
+Adaptable to new technologies
+
+Contact Section:
+Animated contact form integrated with Node.js + Express backend API.
+Fields:
+Name
+Email
+Message
+
+Add social icons:
+GitHub
+LinkedIn
+Email
+
+Extra Features:
+Use React Three Fiber for 3D models
+Framer Motion animations
+Dark theme
+Glassmorphism UI
+Custom cursor
+Scroll progress indicator
+Animated particles background
+Responsive for mobile and desktop
+Smooth page transitions
+Loading screen animation
